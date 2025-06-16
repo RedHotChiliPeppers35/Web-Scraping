@@ -24,7 +24,7 @@ Example: "JACQUEMUS, Geanta de piele cu bareta de umar si logo Le Bambino, Negru
 The src attribute of the product image.
 
 6. Price
-Usually extracted from a tag like <p class="product-new-price">.
+Usually extracted from a tag like p class="product-new-price"
 
 7. Brand
 Sometimes available in the product title or as a data attribute.
